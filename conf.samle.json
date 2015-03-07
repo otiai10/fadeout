@@ -1,0 +1,10 @@
+{
+    "app": {
+        "consumer_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "consumer_secret": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
+    },
+    "user": {
+        "token": "1234567890-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "token_secret": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
+    }
+}
